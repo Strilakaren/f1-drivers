@@ -1,0 +1,10 @@
+node_modules/
+bin/
+obj/
+dist/
+build/
+.vs/
+.DS_Store
+*.db-shm
+*.db-wal
+.env
